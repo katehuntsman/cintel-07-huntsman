@@ -26,16 +26,14 @@ Make sure to add and push the pkl or text file of your scraped html (this is spe
 
 ### Import Packages
 ```
-beautifulsoup4  # parsing webpages (HTML documents)
-ipykernel       # for Jupyter notebooks
-jupyterlab      # for Jupyter notebooks
-matplotlib      # customizing visualizations
-requests        # make HTTP requests (a very popular Python package)
-spacy           # for NLP 
-spacytextblob   # for NLP - combines spaCy and TextBlob (simpler interface)
-bs4 
+beautifulsoup4
+html5lib             
+ipykernel    
+jupyterlab   
+matplotlib           
+spacy                 
+spacytextblob    
 textblob 
-nltk
 collections 
 matplotlib.pyplot 
 ```
