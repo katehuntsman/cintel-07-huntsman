@@ -23,3 +23,19 @@ Make sure to add and push the pkl or text file of your scraped html (this is spe
 * (Question 11) Number of sentences printed: 1 pt
 * (Question 12) Thoughtful answer based on reported polarity scores: 1 pt
 * (Question 13) Thoughtful answer based on summaries: 1 pt
+
+### Import Packages
+```
+beautifulsoup4  # parsing webpages (HTML documents)
+ipykernel       # for Jupyter notebooks
+jupyterlab      # for Jupyter notebooks
+matplotlib      # customizing visualizations
+requests        # make HTTP requests (a very popular Python package)
+spacy           # for NLP 
+spacytextblob   # for NLP - combines spaCy and TextBlob (simpler interface)
+bs4 
+textblob 
+nltk
+collections 
+matplotlib.pyplot 
+```
